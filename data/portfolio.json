@@ -1,0 +1,120 @@
+{
+  "name": "Heithem",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Heithem Kacem - curious",
+  "headerTaglineThree": "web and mobile devloper",
+  "headerTaglineFour": " based in Sousse, Tunisia.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/heithemkacem"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/heithemkacem/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/kacemheithem"
+    },
+
+    { "id": "5", "title": "Email", "link": "mailto:heithem.kacem@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "TrustyCab",
+      "description": "Mobile Development",
+      "imageSrc": "https://files.fm/thumb_show.php?i=9tbq9zz8t",
+      "url": "http://nolinkfornow"
+    },
+    {
+      "id": "2",
+      "title": "Foodie",
+      "description": "Mobile Development",
+      "imageSrc": "https://files.fm/thumb_show.php?i=w7t877g2b",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "I&H Polymer engineering",
+      "description": "Web Development ",
+      "imageSrc": "https://files.fm/thumb_show.php?i=xe296bybm",
+      "url": "http://ihpolymerengineering.com/"
+    },
+    {
+      "id": "4",
+      "title": "TBGE",
+      "description": "Mobile Development",
+      "imageSrc": "https://files.fm/thumb_show.php?i=nftrhb52v",
+      "url": "http://nolinkfornow/"
+    },
+    {
+      "id": "5",
+      "title": "NearVote",
+      "description": "Web Development",
+      "imageSrc": "https://files.fm/thumb_show.php?i=vtrmpm9hm",
+      "url": "http://nolinkfornow"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Mobile Builder",
+      "description": "We help with the creation and development of your mobile application, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Web Builder",
+      "description": "We help you build you website from scratch."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    }
+  ],
+  "aboutpara": "Hello! I am Heithem Kacem, a self-taught web developer who loves combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites. I am a fast learner with pure love for challenges and lots of motivation, with a passion to learn new technologies.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React,ReactNative Javascript, and most of the Web and Mobile frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "August 2022 - Present",
+        "type": "Full Time",
+        "position": "Web and Mobile Developer at WhiteCape",
+        "bullets": "Developed and maintained the clients's websites and mobiles application. "
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "December 2020 - Juin 2021",
+        "type": "Part Time",
+        "position": "Web Developer & SEO Specialist at I&H Polymer Engineering",
+        "bullets": "Identified strategies techniques and tactics to increase the number of visitors to the website and obtain a high-ranking placement in the results page of search engines "
+      }
+    ],
+    "education": {
+      "universityName": "Higher School of Hammam Sousse ",
+      "universityDate": "2019-2022",
+      "universityPara": "Graduated with honors in Computer Science and Multimedia "
+    },
+    "languages": ["Javascript", "Python", "PHP"],
+    "frameworks": [
+      "React",
+      "ReactNative",
+      "ExpressJs",
+      "NestJs",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": ["Figma", "GIT", "AWS"]
+  }
+}
