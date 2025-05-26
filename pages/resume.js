@@ -82,39 +82,89 @@ const Resume = () => {
               </div>
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Skills</h1>
-                <div className="flex mob:flex-col desktop:flex-row justify-between">
+                <div className="mt-4 flex flex-wrap gap-6">
                   {resume.languages && (
-                    <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Languages</h2>
-                      <ul className="list-disc">
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">Languages</h2>
+                      <ul className="list-disc mt-2">
                         {resume.languages.map((language, index) => (
-                          <li key={index} className="ml-5 py-2">
+                          <li key={index} className="ml-5 py-1">
                             {language}
                           </li>
                         ))}
                       </ul>
                     </div>
                   )}
-
                   {resume.frameworks && (
-                    <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Frameworks</h2>
-                      <ul className="list-disc">
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">Frameworks</h2>
+                      <ul className="list-disc mt-2">
                         {resume.frameworks.map((framework, index) => (
-                          <li key={index} className="ml-5 py-2">
+                          <li key={index} className="ml-5 py-1">
                             {framework}
                           </li>
                         ))}
                       </ul>
                     </div>
                   )}
-
+                  {resume.architectures && (
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">Architectures</h2>
+                      <ul className="list-disc mt-2">
+                        {resume.architectures.map((arch, index) => (
+                          <li key={index} className="ml-5 py-1">
+                            {arch}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                  {resume.clouds_and_databases && (
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">
+                        Clouds & Databases
+                      </h2>
+                      <ul className="list-disc mt-2">
+                        {resume.clouds_and_databases.map((item, index) => (
+                          <li key={index} className="ml-5 py-1">
+                            {item}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                  {resume.web_technologies && (
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">
+                        Web Technologies
+                      </h2>
+                      <ul className="list-disc mt-2">
+                        {resume.web_technologies.map((tech, index) => (
+                          <li key={index} className="ml-5 py-1">
+                            {tech}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                  {resume.developer_tools && (
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">Developer Tools</h2>
+                      <ul className="list-disc mt-2">
+                        {resume.developer_tools.map((tool, index) => (
+                          <li key={index} className="ml-5 py-1">
+                            {tool}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                   {resume.others && (
-                    <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Others</h2>
-                      <ul className="list-disc">
+                    <div className="min-w-[200px]">
+                      <h2 className="text-lg font-semibold">Others</h2>
+                      <ul className="list-disc mt-2">
                         {resume.others.map((other, index) => (
-                          <li key={index} className="ml-5 py-2">
+                          <li key={index} className="ml-5 py-1">
                             {other}
                           </li>
                         ))}

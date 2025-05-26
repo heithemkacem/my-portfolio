@@ -8,12 +8,9 @@
   "showBlog": false,
   "darkMode": true,
   "showResume": true,
+
   "socials": [
-    {
-      "id": "1",
-      "title": "Github",
-      "link": "https://github.com/heithemkacem"
-    },
+    { "id": "1", "title": "Github", "link": "https://github.com/heithemkacem" },
     {
       "id": "2",
       "title": "LinkedIn",
@@ -24,44 +21,37 @@
       "title": "Twitter",
       "link": "https://twitter.com/kacemheithem"
     },
-
     { "id": "5", "title": "Email", "link": "mailto:heithem.kacem@gmail.com" }
   ],
+  "aboutpara": "A self-taught web developer who loves combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites. I am a fast learner with pure love for challenges and lots of motivation, with a passion to learn new technologies.",
   "projects": [
     {
       "id": "1",
-      "title": "TrustyCab",
-      "description": "Mobile Development",
-      "imageSrc": "https://files.fm/thumb_show.php?i=9tbq9zz8t",
-      "url": "http://nolinkfornow"
+      "title": "Hansehuepfer",
+      "description": "Web Design & Development",
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
+      "url": "https://www.hansehuepfer.de/"
     },
     {
-      "id": "2",
-      "title": "Foodie",
-      "description": "Mobile Development",
-      "imageSrc": "https://files.fm/thumb_show.php?i=w7t877g2b",
-      "url": "http://nolinkfornow/"
+      "id": "2d60b2e0-2bbe-4900-8b8c-50fe110f5580",
+      "title": "I&H Polymer Engineering",
+      "description": "Web Design & Development",
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
+      "url": "https://ihpolymerengineering.com/"
     },
     {
-      "id": "3",
-      "title": "I&H Polymer engineering",
-      "description": "Web Development ",
-      "imageSrc": "https://files.fm/thumb_show.php?i=xe296bybm",
-      "url": "http://ihpolymerengineering.com/"
+      "id": "5b939a31-0514-407c-9885-a30b209115fc",
+      "title": "Hotelna",
+      "description": "Mobile Design & Development",
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
+      "url": "https://www.hotelna.info/"
     },
     {
-      "id": "4",
-      "title": "TBGE",
-      "description": "Mobile Development",
-      "imageSrc": "https://files.fm/thumb_show.php?i=nftrhb52v",
-      "url": "http://nolinkfornow/"
-    },
-    {
-      "id": "5",
-      "title": "NearVote",
-      "description": "Web Development",
-      "imageSrc": "https://files.fm/thumb_show.php?i=vtrmpm9hm",
-      "url": "http://nolinkfornow"
+      "id": "a2027711-75bc-4e2e-a856-ec55d1457ee4",
+      "title": "Vaistat",
+      "description": "Mobile Design & Development",
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
+      "url": "https://pharmacy.vaistat.com/"
     }
   ],
   "services": [
@@ -81,40 +71,93 @@
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     }
   ],
-  "aboutpara": "Hello! I am Heithem Kacem, a self-taught web developer who loves combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites. I am a fast learner with pure love for challenges and lots of motivation, with a passion to learn new technologies.",
+
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React,ReactNative Javascript, and most of the Web and Mobile frameworks.",
     "experiences": [
       {
         "id": "1",
-        "dates": "August 2022 - Present",
+        "dates": "March 2025 - Present",
         "type": "Full Time",
-        "position": "Web and Mobile Developer at WhiteCape",
-        "bullets": "Developed and maintained the clients's websites and mobiles application. "
+        "position": "Software Developer at Infosys",
+        "bullets": "I contributed to the AI team by developing innovative AI-driven KYC solutions based on the MCP (Model Contact Protocol). My responsibilities included designing robust systems for validating KYC data to ensure regulatory compliance and fraud prevention. I integrated machine learning models to automate risk detection and improve process efficiency. Working closely with cross-functional teams I deployed real-time applications that significantly enhanced KYC workflows for enterprise-scale environments."
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "December 2020 - Juin 2021",
-        "type": "Part Time",
-        "position": "Web Developer & SEO Specialist at I&H Polymer Engineering",
-        "bullets": "Identified strategies techniques and tactics to increase the number of visitors to the website and obtain a high-ranking placement in the results page of search engines "
+        "dates": "March 2024 - March 2025",
+        "type": "Full Time",
+        "position": "Mobile & Backend Developer at Trimakus",
+        "bullets": "I worked on Vaistat an e-health mobile application focused on facilitating the delivery of medicaments and job placement in the healthcare sector. I implemented features that optimized logistical operations and improved job-matching algorithms. Emphasizing user-centric design I ensured a seamless and intuitive experience tailored for both healthcare providers and patients contributing to the app’s reliability and user engagement."
+      },
+      {
+        "id": "1",
+        "dates": "March 2023 - March 2024",
+        "type": "Full Time",
+        "position": "Web and Mobile Developer at Kayros",
+        "bullets": "I played a key role in enhancing the Kayros Wallet application ensuring stability rapid issue resolution and user satisfaction. I implemented comprehensive unit testing for protocol-level communication and expanded language support to 41 languages making the product globally accessible. I integrated Kayros with WalletConnect Explorer to enable seamless DApp connectivity. I introduced PostHog for advanced product analytics including A/B testing heatmaps and feature flags empowering data-driven decision-making."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "February 2022 - March 2023",
+        "type": "Full Time",
+        "position": "Web and Mobile Developer at WhiteCape",
+        "bullets": "I actively contributed to several web and mobile development projects including the full development lifecycle of two mobile apps. I supervised and mentored three final-year engineering students whose projects all graduated with honors fostering both technical excellence and leadership within the team. My mentorship and guidance during this period contributed to a dynamic and growth-oriented environment."
       }
     ],
-    "education": {
-      "universityName": "Higher School of Hammam Sousse ",
-      "universityDate": "2019-2022",
-      "universityPara": "Graduated with honors in Computer Science and Multimedia "
-    },
-    "languages": ["Javascript", "Python", "PHP"],
+    "education": [
+      {
+        "universityName": "Higher School of Hammam Sousse ",
+        "universityDate": "2019-2022",
+        "universityPara": "Graduated with honors in Computer Science and Multimedia "
+      },
+      {
+        "universityName": "Higher School of Hammam Sousse ",
+        "universityDate": "2019-2022",
+        "universityPara": "Graduated with honors in Computer Science and Multimedia "
+      }
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "HTML",
+      "XML",
+      "JSON",
+      "CSS",
+      "Sass"
+    ],
     "frameworks": [
       "React",
-      "ReactNative",
-      "ExpressJs",
-      "NestJs",
-      "Typescript",
-      "NodeJs"
+      "React Native",
+      "Next.js",
+      "Tailwind CSS",
+      "Express.js",
+      "Node.js"
     ],
-    "others": ["Figma", "GIT", "AWS"]
+    "architectures": [
+      "Microservices",
+      "Monolithic",
+      "MVC",
+      "Event-Driven",
+      "RESTful APIs"
+    ],
+    "clouds_and_databases": ["Azure", "AWS", "PostgreSQL", "MongoDB", "MySQL"],
+    "web_technologies": [
+      "Docker",
+      "Docker Compose",
+      "RabbitMQ",
+      "Socket.IO",
+      "Redux"
+    ],
+    "developer_tools": [
+      "Postman",
+      "VS Code",
+      "GitHub",
+      "Xcode",
+      "Android Studio"
+    ],
+    "others": ["Figma", "Git"]
   }
 }
