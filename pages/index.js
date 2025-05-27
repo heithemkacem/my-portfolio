@@ -118,10 +118,10 @@ export default function Home() {
             {data.projects.map((project) => (
               <WorkCard
                 key={project.id}
+                id={project.id}
                 img={project.imageSrc}
                 name={project.title}
                 description={project.description}
-                onClick={() => window.open(project.url)}
               />
             ))}
           </div>

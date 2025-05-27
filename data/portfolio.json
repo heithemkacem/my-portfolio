@@ -30,28 +30,97 @@
       "title": "Hansehuepfer",
       "description": "Web Design & Development",
       "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
-      "url": "https://www.hansehuepfer.de/"
+      "url": "https://www.hansehuepfer.de/",
+      "longDescription": "Hansehuepfer is a comprehensive web platform designed for a German tourism company specializing in guided tours around Hamburg. The website features an intuitive booking system, interactive tour maps, and a content management system that allows the client to easily update tour information and manage bookings.",
+      "techStack": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "architecture": "The application follows a JAMstack architecture with server-side rendering for optimal SEO performance. The backend API is built with Node.js and Express, connected to a MongoDB database for storing tour data and booking information.",
+      "client": "Hansehuepfer GmbH",
+      "year": "2023",
+      "additionalImages": [
+        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg"
+      ]
     },
     {
       "id": "2d60b2e0-2bbe-4900-8b8c-50fe110f5580",
       "title": "I&H Polymer Engineering",
       "description": "Web Design & Development",
       "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
-      "url": "https://ihpolymerengineering.com/"
+      "url": "https://ihpolymerengineering.com/",
+      "longDescription": "I&H Polymer Engineering required a professional corporate website to showcase their engineering services and products. The website features a modern design with detailed product catalogs, technical specifications, and a contact system for business inquiries. The site is fully responsive and optimized for all devices.",
+      "techStack": [
+        "React",
+        "Gatsby.js",
+        "GraphQL",
+        "Styled Components",
+        "Netlify CMS"
+      ],
+      "architecture": "The website is built as a static site using Gatsby.js for optimal performance and security. Content is managed through a headless CMS, allowing the client to easily update product information and technical specifications without developer intervention.",
+      "client": "I&H Polymer Engineering GmbH",
+      "year": "2022",
+      "additionalImages": [
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ"
+      ]
     },
     {
       "id": "5b939a31-0514-407c-9885-a30b209115fc",
       "title": "Hotelna",
       "description": "Mobile Design & Development",
       "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
-      "url": "https://www.hotelna.info/"
+      "url": "https://www.hotelna.info/",
+      "longDescription": "Hotelna is a comprehensive mobile application designed for hotel management and guest services. The app allows guests to check-in digitally, access room services, make restaurant reservations, and explore local attractions. For hotel staff, it provides tools for managing bookings, room assignments, and guest requests in real-time.",
+      "techStack": [
+        "React Native",
+        "Firebase",
+        "Redux",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "architecture": "The application follows a microservices architecture with a React Native frontend and Node.js backend. Real-time features are implemented using Firebase, while the core booking system is built with a custom API connected to MongoDB.",
+      "client": "Hotelna Inc.",
+      "year": "2023",
+      "additionalImages": [
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0"
+      ]
     },
     {
       "id": "a2027711-75bc-4e2e-a856-ec55d1457ee4",
       "title": "Vaistat",
       "description": "Mobile Design & Development",
       "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
-      "url": "https://pharmacy.vaistat.com/"
+      "url": "https://pharmacy.vaistat.com/",
+      "longDescription": "Vaistat is an e-health mobile application focused on facilitating the delivery of medications and job placement in the healthcare sector. The app connects pharmacies, healthcare providers, and patients in a seamless ecosystem, optimizing medication delivery and healthcare staffing. The platform includes features for prescription management, delivery tracking, and healthcare job matching.",
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "architecture": "The application uses a clean architecture approach with domain-driven design principles. The backend is built with Node.js and Express, using PostgreSQL for persistent storage and Redis for caching and session management. The mobile app is developed with React Native and TypeScript for type safety.",
+      "client": "Trimakus Healthcare Solutions",
+      "year": "2024",
+      "additionalImages": [
+        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
+        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY"
+      ]
     }
   ],
   "services": [
