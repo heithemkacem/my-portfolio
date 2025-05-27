@@ -26,10 +26,113 @@
   "aboutpara": "A self-taught web developer who loves combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites. I am a fast learner with pure love for challenges and lots of motivation, with a passion to learn new technologies.",
   "projects": [
     {
-      "id": "1",
+      "id": "5b939a31-0514-407c-9885-a30b209115fc",
+      "title": "Hotelna",
+      "description": "Mobile Design & Development",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201.png",
+      "url": "https://www.hotelna.info/",
+      "longDescription": "Hotelna is a mobile app revolutionizing hotel communication. Its chat-based interface seamlessly translates messages between clients and hotel staff, breaking language barriers. Users can reserve rooms, access information, and rate their experience, enhancing guest satisfaction.",
+      "techStack": ["React Native", "ExpressJS", "Redux", "MongoDB"],
+      "architecture": "The app uses a microservices architecture with React Native on the frontend and Node.js (ExpressJS) on the backend. Real-time communication is central to the experience, enabling guests and hotel staff to interact without language barriers. MongoDB supports scalable data storage.",
+      "client": "Hotelna Inc.",
+      "year": "2023",
+      "additionalImages": [
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/58e88365-9c5d-419d-a57f-16156ab81a35.jpeg?updatedAt=1748346518909",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/6991f7d8-93a4-4617-ad30-c24059029c4b.jpeg?updatedAt=1748346517069",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/944ef292-85aa-4fa6-a417-a6ee6b7acfcf.jpeg?updatedAt=1748346515273",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/d0796905-df84-43b0-895d-8ad70aede7ba.jpeg?updatedAt=1748346512976",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/a6ecbc79-e846-4942-bd41-ba7086c0c946.jpeg?updatedAt=1748346511240",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/d5fae002-b63f-45f1-9d4d-668e745f9b1a.jpeg?updatedAt=1748346509448",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/7a649f80-67e3-4149-9af8-bd3caa66ad09.jpeg?updatedAt=1748346507214",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/52cb0c38-1fa8-4848-99a3-f95dc107c98b.jpeg?updatedAt=1748346505399",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/dcb27dc0-9944-49db-aad5-fc8a1de4d6d6.jpeg?updatedAt=1748346503047",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/6a925ea7-62d2-4856-b1fd-71bad1e27ec0.jpeg?updatedAt=1748346501207",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/cb6a5ccb-6423-4e1d-abf7-f75bfcd6fd5d.jpeg?updatedAt=1748346499372",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/e994b7b9-c514-4574-a7dc-bc4f80cab911.jpeg?updatedAt=1748346497516",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/6b3626b3-0640-4850-95f0-f1b16b07448d.jpeg?updatedAt=1748346495663",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/128a9aac-da3a-4a25-945d-02e97d0e0611.jpeg?updatedAt=1748346492766",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/96ac4573-f2f7-4eff-ad08-c3ab70f1ae4a.jpeg?updatedAt=1748346490958",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/9e0f2279-dd91-48a2-aedd-8e8dd086d69b.jpeg?updatedAt=1748346489156",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/67e77b0c-e2e4-4a7f-bd74-b7adde172289.jpeg?updatedAt=1748346486777",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/18bd2891-32f5-4b08-9f91-2a477d13882a.jpeg?updatedAt=1748346484949",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/3f32d6f2-8433-4e3e-b8dc-990eaae501f6.jpeg?updatedAt=1748346482720",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/29957d03-b101-4d46-a752-7cf83cb462fd.jpeg?updatedAt=1748346480901",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/5431ea87-1627-4a2c-89fb-cd058671a7ae.jpeg?updatedAt=1748346478983",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/fe852431-37dc-4bea-b16b-cb87fc78359d.jpeg?updatedAt=1748346476757",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/3a322524-aed2-4a32-8f63-584033f714bf.jpeg?updatedAt=1748346474304",
+        "https://ik.imagekit.io/gqfmeowjp/Hotelna/b8f361ec-4717-4800-9532-14319463910b%20(1).jpeg?updatedAt=1748346471719"
+      ]
+    },
+    {
+      "id": "a2027711-75bc-4e2e-a856-ec55d1457ee4",
+      "title": "Vaistat",
+      "description": "E-health Delivery Platform",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201%20(2).png",
+      "url": "https://pharmacy.vaistat.com/",
+      "longDescription": "Vaistat is an e-health mobile application designed to optimize medication delivery and streamline healthcare staffing. The platform connects pharmacies, healthcare providers, and patients within a seamless ecosystem. It includes QR-based communication between clients and drivers, prescription management, and smart delivery logistics using intelligent pickup and route optimization algorithms. A driver-facing app enables real-time delivery tracking, job prioritization, and wallet management.",
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "architecture": "The application is built following clean architecture and domain-driven design principles. The backend leverages Node.js with Express, PostgreSQL for relational data storage, and Redis for caching and session handling. The mobile application, developed with React Native and TypeScript, is structured for modular scalability and high performance.",
+      "client": "Trimakus Healthcare Solutions",
+      "year": "2024",
+      "additionalImages": [
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Login.png?updatedAt=1748347632750",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Signup%200.2.png?updatedAt=1748347652615",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Home%20Profile%20not%20competed.png?updatedAt=1748347633166",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Profiling%200.1.png?updatedAt=1748347298100",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Profiling%200.4.png?updatedAt=1748347298113",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Profiling%200.2.png?updatedAt=1748347298010",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Profiling%200.5-%20Trusty.png?updatedAt=1748347298615",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Wallet.png?updatedAt=1748347302621",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Setting.png?updatedAt=1748347298264",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Active%20Jobs.png?updatedAt=1748347298313",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Jobs%20-%20Active%20Jobs.png?updatedAt=1748347298191",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Jobs%20-%20Accepted%20Jobs.png?updatedAt=1748347298220",
+        "https://ik.imagekit.io/gqfmeowjp/Vaistat/Side%20Bar.png?updatedAt=1748347298064"
+      ]
+    },
+    {
+      "id": "b3028812-65cd-4f3e-bb56-df66e2459ff5",
+      "title": "Vinty",
+      "description": "Locate Vending Machines Across Austria",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201%20(1).png",
+      "url": "",
+      "longDescription": "Vinty is a mobile application focused on helping users locate vending machines throughout Austria. It utilizes geolocation and an interactive map interface to display nearby vending machines along with detailed product listings. Built with the Expo SDK and Maps API integration on both the frontend and backend, Vinty provides a seamless and informative experience for users navigating vending machine options.",
+      "techStack": ["React Native", "Expo SDK 52", "Maps API"],
+      "architecture": "Vinty follows a modular architecture. The frontend is built using React Native with Expo SDK 52 for streamlined development and deployment. It leverages the Maps API for geospatial data, showing vending machine locations and allowing product search. The backend interacts with map services using secure API keys and returns structured data consumed by the app.",
+      "client": "Internal Project",
+      "year": "2024",
+      "additionalImages": [
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/login%20popup.png?updatedAt=1748347449362",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Login.png?updatedAt=1748347449060",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Menu%20page.png?updatedAt=1748347458333",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Logout%20popup.png?updatedAt=1748347455294",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Menu%20page-1.png?updatedAt=1748347455117",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Personal%20info%20page.png?updatedAt=1748347455117",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/FAQs%20page.png?updatedAt=1748347454773",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Search.png?updatedAt=1748347454089",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Search%20Not%20Found.png?updatedAt=1748347454140",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/Notifications.png?updatedAt=1748347454061",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/About%20page.png?updatedAt=1748347454008",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/About%20page-1.png?updatedAt=1748347453579",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/General%20info%20page.png?updatedAt=1748347449242",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/add%20photo%20page.png?updatedAt=1748347449631",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/add%20location%20page.png?updatedAt=1748347449355",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/products%20price%20page.png?updatedAt=1748347449352",
+        "https://ik.imagekit.io/gqfmeowjp/Vinty/products%20price%20page-1.png?updatedAt=1748347449112"
+      ]
+    },
+    {
+      "id": "2d60b2f0-2bbe-4530-8b8c-50fe110f5580",
       "title": "Hansehuepfer",
       "description": "Web Design & Development",
-      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201%20(5).png",
       "url": "https://www.hansehuepfer.de/",
       "longDescription": "Hansehuepfer is a comprehensive web platform designed for a German tourism company specializing in guided tours around Hamburg. The website features an intuitive booking system, interactive tour maps, and a content management system that allows the client to easily update tour information and manage bookings.",
       "techStack": [
@@ -44,82 +147,33 @@
       "client": "Hansehuepfer GmbH",
       "year": "2023",
       "additionalImages": [
-        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQEUkghzWcx3JQ/profile-treasury-image-shrink_800_800/B4DZbn6Rd2IEAY-/0/1747647536671?e=1748880000&v=beta&t=WnxASxjvZeg2fb7-xRGNLUY-YNT2NH24AvuXb56aUIg"
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-27-36.png",
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-27-39.png",
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-27-52.png",
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-28-02.png",
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-28-14.png",
+        "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-28-17.png"
       ]
     },
     {
       "id": "2d60b2e0-2bbe-4900-8b8c-50fe110f5580",
       "title": "I&H Polymer Engineering",
       "description": "Web Design & Development",
-      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201%20(6).png",
       "url": "https://ihpolymerengineering.com/",
       "longDescription": "I&H Polymer Engineering required a professional corporate website to showcase their engineering services and products. The website features a modern design with detailed product catalogs, technical specifications, and a contact system for business inquiries. The site is fully responsive and optimized for all devices.",
-      "techStack": [
-        "React",
-        "Gatsby.js",
-        "GraphQL",
-        "Styled Components",
-        "Netlify CMS"
-      ],
+      "techStack": ["React", "Gatsby.js", "Styled Components", "Netlify CMS"],
       "architecture": "The website is built as a static site using Gatsby.js for optimal performance and security. Content is managed through a headless CMS, allowing the client to easily update product information and technical specifications without developer intervention.",
       "client": "I&H Polymer Engineering GmbH",
       "year": "2022",
       "additionalImages": [
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGNyY99Woyclg/profile-treasury-image-shrink_800_800/B4DZcNTB83IAAY-/0/1748274789639?e=1748880000&v=beta&t=83tWsF4qUTCU2xKzLTLeuztq48OWg9Gl7w5GieFAefQ"
-      ]
-    },
-    {
-      "id": "5b939a31-0514-407c-9885-a30b209115fc",
-      "title": "Hotelna",
-      "description": "Mobile Design & Development",
-      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
-      "url": "https://www.hotelna.info/",
-      "longDescription": "Hotelna is a comprehensive mobile application designed for hotel management and guest services. The app allows guests to check-in digitally, access room services, make restaurant reservations, and explore local attractions. For hotel staff, it provides tools for managing bookings, room assignments, and guest requests in real-time.",
-      "techStack": [
-        "React Native",
-        "Firebase",
-        "Redux",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "architecture": "The application follows a microservices architecture with a React Native frontend and Node.js backend. Real-time features are implemented using Firebase, while the core booking system is built with a custom API connected to MongoDB.",
-      "client": "Hotelna Inc.",
-      "year": "2023",
-      "additionalImages": [
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQGwRr0OftpYQA/profile-treasury-image-shrink_800_800/B4DZbn57VSHsAY-/0/1747647447583?e=1748880000&v=beta&t=FbDJ9xHpm0SAjBgrMT7NtKjWe4_jIzVu_qiOT3kKLe0"
-      ]
-    },
-    {
-      "id": "a2027711-75bc-4e2e-a856-ec55d1457ee4",
-      "title": "Vaistat",
-      "description": "Mobile Design & Development",
-      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
-      "url": "https://pharmacy.vaistat.com/",
-      "longDescription": "Vaistat is an e-health mobile application focused on facilitating the delivery of medications and job placement in the healthcare sector. The app connects pharmacies, healthcare providers, and patients in a seamless ecosystem, optimizing medication delivery and healthcare staffing. The platform includes features for prescription management, delivery tracking, and healthcare job matching.",
-      "techStack": [
-        "React Native",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "Redis"
-      ],
-      "architecture": "The application uses a clean architecture approach with domain-driven design principles. The backend is built with Node.js and Express, using PostgreSQL for persistent storage and Redis for caching and session management. The mobile app is developed with React Native and TypeScript for type safety.",
-      "client": "Trimakus Healthcare Solutions",
-      "year": "2024",
-      "additionalImages": [
-        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY",
-        "https://media.licdn.com/dms/image/v2/D4D2DAQHve9nVZq6Plg/profile-treasury-image-shrink_1280_1280/B4DZcNL8MMGkAU-/0/1748272928219?e=1748880000&v=beta&t=ylinhBbxPqIFD2XZAQ8ITyY0XEPEcFVSj1FLWLR4vIY"
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-15.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-22.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-25.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-28.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-34.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-40.png",
+        "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-45.png"
       ]
     }
   ],

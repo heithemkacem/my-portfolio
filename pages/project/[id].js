@@ -86,7 +86,7 @@ export default function ProjectDetails() {
           <div className="mt-10 grid grid-cols-1 laptop:grid-cols-3 gap-10">
             <div className="laptop:col-span-2">
               <h3 className="text-2xl font-bold mb-4">About the Project</h3>
-              <div className="text-lg text-gray-700 dark:text-gray-300 space-y-4">
+              <div className="text-lg text-white-700 dark:text-white space-y-4">
                 {project.longDescription ? (
                   <p>{project.longDescription}</p>
                 ) : (
@@ -101,7 +101,7 @@ export default function ProjectDetails() {
               {project.architecture && (
                 <div className="mt-8">
                   <h3 className="text-2xl font-bold mb-4">Architecture</h3>
-                  <p className="text-lg text-gray-700 dark:text-gray-300">
+                  <p className="text-lg text-white-700 dark:text-gray-300">
                     {project.architecture}
                   </p>
                 </div>
@@ -116,13 +116,14 @@ export default function ProjectDetails() {
                       {project.additionalImages.map((img, index) => (
                         <div
                           key={index}
-                          className="relative h-[200px] rounded-lg overflow-hidden transform transition-transform duration-300 hover:scale-[1.02]"
+                          className="relative rounded-lg overflow-hidden"
                         >
                           <Image
                             src={img}
                             alt={`${project.title} image ${index + 1}`}
-                            layout="fill"
-                            objectFit="cover"
+                            width={800} // Or any preferred width
+                            height={600} // Maintain aspect ratio or use actual dimensions
+                            className="rounded-lg object-contain w-full h-auto"
                           />
                         </div>
                       ))}
@@ -145,7 +146,7 @@ export default function ProjectDetails() {
                   rel="noopener noreferrer"
                   className="block w-full"
                 >
-                  <Button>Visit Project</Button>
+                  <Button type={"primary"}>Visit Project</Button>
                 </a>
 
                 {/* Tech Stack */}
