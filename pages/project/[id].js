@@ -7,6 +7,13 @@ import Button from "../../components/Button";
 import Cursor from "../../components/Cursor";
 import { useRouter } from "next/router";
 import Link from "next/link";
+// Import Swiper components
+import { Swiper, SwiperSlide } from "swiper/react";
+// Import required modules
+import { Pagination, Autoplay } from "swiper/modules";
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/pagination";
 
 // Local Data
 import data from "../../data/portfolio.json";
@@ -107,26 +114,55 @@ export default function ProjectDetails() {
                 </div>
               )}
 
-              {/* Additional Images Gallery */}
+              {/* Additional Images Gallery - Horizontal Swiper */}
               {project.additionalImages &&
                 project.additionalImages.length > 0 && (
                   <div className="mt-8">
                     <h3 className="text-2xl font-bold mb-4">Gallery</h3>
-                    <div className="grid grid-cols-1 tablet:grid-cols-2 gap-4">
-                      {project.additionalImages.map((img, index) => (
-                        <div
-                          key={index}
-                          className="relative rounded-lg overflow-hidden"
-                        >
-                          <Image
-                            src={img}
-                            alt={`${project.title} image ${index + 1}`}
-                            width={800} // Or any preferred width
-                            height={600} // Maintain aspect ratio or use actual dimensions
-                            className="rounded-lg object-contain w-full h-auto"
-                          />
-                        </div>
-                      ))}
+                    <div className="w-full project-gallery">
+                      <Swiper
+                        modules={[Pagination, Autoplay]}
+                        spaceBetween={20}
+                        slidesPerView={1}
+                        pagination={{
+                          clickable: true,
+                          dynamicBullets: true,
+                        }}
+                        loop={true}
+                        autoplay={{
+                          delay: 3500,
+                          disableOnInteraction: false,
+                        }}
+                        breakpoints={{
+                          640: {
+                            slidesPerView: 1,
+                            spaceBetween: 20,
+                          },
+                          768: {
+                            slidesPerView: 1.5,
+                            spaceBetween: 30,
+                          },
+                          1024: {
+                            slidesPerView: 2,
+                            spaceBetween: 40,
+                          },
+                        }}
+                        className="mySwiper"
+                      >
+                        {project.additionalImages.map((img, index) => (
+                          <SwiperSlide key={index}>
+                            <div className="relative rounded-lg overflow-hidden h-[300px] laptop:h-[400px]">
+                              <Image
+                                src={img}
+                                alt={`${project.title} image ${index + 1}`}
+                                layout="fill"
+                                objectFit="contain"
+                                className="rounded-lg"
+                              />
+                            </div>
+                          </SwiperSlide>
+                        ))}
+                      </Swiper>
                     </div>
                   </div>
                 )}
