@@ -35,7 +35,7 @@
       "techStack": ["React Native", "ExpressJS", "Redux", "MongoDB"],
       "architecture": "The app uses a microservices architecture with React Native on the frontend and Node.js (ExpressJS) on the backend. Real-time communication is central to the experience, enabling guests and hotel staff to interact without language barriers. MongoDB supports scalable data storage.",
       "client": "Hotelna Inc.",
-      "year": "2023",
+      "year": "2025",
       "additionalImages": [
         "https://ik.imagekit.io/gqfmeowjp/Hotelna/58e88365-9c5d-419d-a57f-16156ab81a35.jpeg?updatedAt=1748346518909",
         "https://ik.imagekit.io/gqfmeowjp/Hotelna/6991f7d8-93a4-4617-ad30-c24059029c4b.jpeg?updatedAt=1748346517069",
@@ -79,7 +79,7 @@
         "Redis"
       ],
       "architecture": "The application is built following clean architecture and domain-driven design principles. The backend leverages Node.js with Express, PostgreSQL for relational data storage, and Redis for caching and session handling. The mobile application, developed with React Native and TypeScript, is structured for modular scalability and high performance.",
-      "client": "Trimakus Healthcare Solutions",
+      "client": "Trimakus",
       "year": "2024",
       "additionalImages": [
         "https://ik.imagekit.io/gqfmeowjp/Vaistat/Login.png?updatedAt=1748347632750",
@@ -106,8 +106,8 @@
       "longDescription": "Vinty is a mobile application focused on helping users locate vending machines throughout Austria. It utilizes geolocation and an interactive map interface to display nearby vending machines along with detailed product listings. Built with the Expo SDK and Maps API integration on both the frontend and backend, Vinty provides a seamless and informative experience for users navigating vending machine options.",
       "techStack": ["React Native", "Expo SDK 52", "Maps API"],
       "architecture": "Vinty follows a modular architecture. The frontend is built using React Native with Expo SDK 52 for streamlined development and deployment. It leverages the Maps API for geospatial data, showing vending machine locations and allowing product search. The backend interacts with map services using secure API keys and returns structured data consumed by the app.",
-      "client": "Internal Project",
-      "year": "2024",
+      "client": "Austrian Client",
+      "year": "2025",
       "additionalImages": [
         "https://ik.imagekit.io/gqfmeowjp/Vinty/login%20popup.png?updatedAt=1748347449362",
         "https://ik.imagekit.io/gqfmeowjp/Vinty/Login.png?updatedAt=1748347449060",
@@ -145,7 +145,7 @@
       ],
       "architecture": "The application follows a JAMstack architecture with server-side rendering for optimal SEO performance. The backend API is built with Node.js and Express, connected to a MongoDB database for storing tour data and booking information.",
       "client": "Hansehuepfer GmbH",
-      "year": "2023",
+      "year": "2025",
       "additionalImages": [
         "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-27-36.png",
         "https://ik.imagekit.io/gqfmeowjp/Mondher%20Project%20/Screenshot%20from%202025-05-27%2013-27-39.png",
@@ -165,7 +165,7 @@
       "techStack": ["React", "Gatsby.js", "Styled Components", "Netlify CMS"],
       "architecture": "The website is built as a static site using Gatsby.js for optimal performance and security. Content is managed through a headless CMS, allowing the client to easily update product information and technical specifications without developer intervention.",
       "client": "I&H Polymer Engineering GmbH",
-      "year": "2022",
+      "year": "2020",
       "additionalImages": [
         "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-15.png",
         "https://ik.imagekit.io/gqfmeowjp/IH/Screenshot%20from%202025-05-27%2013-30-22.png",
