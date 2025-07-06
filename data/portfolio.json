@@ -26,6 +26,27 @@
   "aboutpara": "A self-taught web developer who loves combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites. I am a fast learner with pure love for challenges and lots of motivation, with a passion to learn new technologies.",
   "projects": [
     {
+      "id": "5b939a31-0514-407c-9885-a30b209115875",
+      "title": "Locasa",
+      "description": "Mobile Design & Development",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201.png?updatedAt=1751793810109",
+      "url": "https://www.locasa.store/",
+      "longDescription": "Locasa is a mobile application for the local brands community in Tunisia. It allows users to discover, shop, and review local products and services.",
+      "techStack": ["React Native", "ExpressJS", "Reac Query", "MongoDB"],
+      "architecture": "The app uses a microservices architecture with React Native on the frontend and Node.js (ExpressJS) on the backend. Real-time communication is central to the experience, enabling guests and hotel staff to interact without language barriers. MongoDB supports scalable data storage.",
+      "client": "Locasa Inc.",
+      "year": "2025",
+      "additionalImages": [
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/1ba4b25f-d19d-43e7-a3aa-7f1602ceef05.png?updatedAt=1751793412856",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/34e90b6f-0c7d-470e-8bfe-866e0f7da211.png?updatedAt=1751793413483",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/cc9640c9-14f0-402b-84ff-646ee9696203.png?updatedAt=1751793411355",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/a28701a5-cfb3-4d0a-b088-bd737703259f.png?updatedAt=1751793411300",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/a156e45b-575b-4a47-a6af-2769529d27ea.png?updatedAt=1751793411877",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/da079077-f97c-460f-b3b2-9274bb832e8f.png?updatedAt=1751793411853",
+        "https://ik.imagekit.io/gqfmeowjp/Locasa/d03b05a3-c3dd-4051-9fe7-c1ff2b3b35be.png?updatedAt=1751793412310"
+      ]
+    },
+    {
       "id": "5b939a31-0514-407c-9885-a30b209115fc",
       "title": "Hotelna",
       "description": "Mobile Design & Development",
