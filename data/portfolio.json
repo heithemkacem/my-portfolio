@@ -50,7 +50,7 @@
       "id": "5b939a31-0514-407c-9885-a30b209115fc",
       "title": "Hotelna",
       "description": "Mobile Design & Development",
-      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/Group%201.png",
+      "imageSrc": "https://ik.imagekit.io/gqfmeowjp/hotelna.png?updatedAt=1753013294895",
       "url": "https://www.hotelna.info/",
       "longDescription": "Hotelna is a mobile app revolutionizing hotel communication. Its chat-based interface seamlessly translates messages between clients and hotel staff, breaking language barriers. Users can reserve rooms, access information, and rate their experience, enhancing guest satisfaction.",
       "techStack": ["React Native", "ExpressJS", "Redux", "MongoDB"],
